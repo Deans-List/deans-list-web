@@ -9,50 +9,32 @@
 - Make it easier for a client to engage the serviceDAO 
 - Showcase what we do in this serviceDAO
 
-**These are additional goals to consider for this first iteration or for a future roadmap of the portal**
-- Move the feedback/membership experience onto the platform (this would also include the tracking ideas brought up by Hanko)
-- Allow other serviceDAOs to spin up their own dedicated portal
-- Allow other serviceDAOs to create their own token
-- Power the content management and forms with a web3 solution
+**We are here to help daos get better and to that end can:**
+- Help other serviceDAOs spin up their own dedicated portal and create their own token
 - Integration with Realms for client processes and distribution
-- Merch shop for DAOs
-- Auction process for purchasing feedback services 
+- Merch shop options for DAOs
 
-**Minimum Requirements for the Portal**
+**Requirements for the Portal**
 
-For Clients:
+For New Clients:
 
-Acquire 50 DEAN  – best version is to swap from any token to DEAN, but enabling the basic swap is good for this phase. We should include a link/process to acquire GRAPE if the swap only supports the basic swap and the purchase could automatically calculate how much GRAPE is needed
+Acquire the required DEAN or agreed token (established with the service agreement) and send it to the Dean's List treasury – best version is to swap from any token to DEAN, but enabling the basic swap is good for this phase. Current payment is 50 DEAN but is subject to change based on the requirements and scope of the project being reviewed. 
 
 https://app.strataprotocol.com/swap/6LyW1iUpfTPiMxSLMpKCxeAqXDz7nuWCfCNnEaSmibZ1
 
-Bounty creation– this could be part of the acquire process. The 50 DEAN needs to be deposited into the Treasury account on Realms. Ideally, this deposit also comes with some information similar to the existing bounty process we use on Strata (we could also use the Strata bounty code, if that is easier, but there is the issue that the deposit goes to the mint wallet and not Realms).
- 
+Service agreement - The agreed amount and type of tokens needs to be deposited into the Treasury account on Realms. Ideally, this deposit also comes with some information similar to the existing bounty process we use on Strata (we could also use the Strata bounty code, if that is easier, but there is the issue that the deposit goes to the mint wallet and not Realms).
+
+If the project is not accepted by Dean's List then the payment will be refunded to the payment address that sent the tokens. No refunds will be given once a project has been started and work has begun.
+
 Information to request:
 - Name of Project
-- Contact details for bounty submitter
 - Logo of the project
 - Description of the project and feedback priorities
 
-https://app.strataprotocol.com/launchpad/bounties/new
 
-For Members:
+For Dean's List Members:
 
-Acquire 1 DEAN  - same as above
-
-Signup and Discord link – ideally this is a web3 powered form (token gated by DEAN), but we could use the same process we use for bounty creation or a google form. The goal here is to get some onboarding data about the member. 
-
-**The below features are for future roadmap or can be part of the first phase if they are not difficult/time consuming**
-
-Admin Panel:
-
-Admin assignment – the CMS for the platform should be assigned to a specific wallet address. 
-
-Token management for clients/members – this would set the token required to get service/join the DAO. Select mint, select amount for client/member, and select treasury destination for the bounties
-
-Token creation – this would let new DAOs create their own Strata tokens. Set the name, the bonding curve, the logo, the destination of royalties/bounties, and the royalty amount. 
-
-
+We are looking for likeminded and talented people that are passionate aboue adding value and making a difference. To gain access, you need to acquire 1 DEAN to access the Discord channels. Join in and share your experience with the growing community.
 
 
 
